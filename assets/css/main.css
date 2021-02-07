@@ -11,7 +11,7 @@
 }
 
 body {
-  color: #878787;
+  color: #2F4F4F;
   margin: 0;
   font: 1em/1.5 "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
@@ -84,9 +84,9 @@ a:active {
 .main-header {
   padding-top: 170px;
   height: 850px;
-  background: linear-gradient(#F0F, transparent 80%),
+  background: linear-gradient(#00008B, transparent 80%),
               linear-gradient(0deg,#fff, transparent),
-              #F0F url('https://lh3.googleusercontent.com/AOQ6oxvQ1P9RJD-fFH7EK_dl2S5927FBmIyKZtlME_edHLA_AMBSN7uBlSCDXxVoP5mdX-X9Wpji3P3vh0bBtkuJjR61JQI6HzWMeZTEKTf-LDECxMNoKfs6ubr8YUpNBqh2Zda6PT0blPk0C_jR-a--yVPYcAbNqxf1kcrwT9r1K6K-fr_gFjnsX_Y14fa1gVopiRs1NDYFkKJLY4zls62EanLKba7WoHK9FvQtvSRXbwB3QswBB02KaC2JPzRLRaQmTOV8zl1iHCzHhdzcQ_Uv20t_x4CslpXjmIt5SSdSeUKt9HyKEjGnh_SDeQU0nGqd8Gk1Z5ZXXaeFfuttDZ7EG6R_4cJNdYUl19lf_fshMpoAL4I1ffDH8rKhCQOPTBpdjX3qXmarGXxJiuhN8vKwY1tO6zZMna5KIEc5JTboSiJ6Mr1GEotJjnWmzZdelJo_G_POJL5a9A2wQ2h5e0R_s7BRZ2t4iJXrUVxylJOMMtIyuxi2xU_xQgWoGteHv8MrsKHKYe_Zs3DyjlQlVNI4aMmZ576w2i4KG90gm3zwVQJfKoo3XcyYxfz0cVofAqr7ehCjpx1WrRDgLpxZBGkKZMhkVxI0bPVJmHIONYHBFuHQGtSrl62NBA=w1024-h768-no') no-repeat center;
+              #00008B url('https://i.postimg.cc/rpkXk0xL/pexels-marina-monroe-3909430.jpg') no-repeat center;
   background-size: cover;
 }
 
