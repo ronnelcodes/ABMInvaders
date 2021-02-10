@@ -49,6 +49,7 @@ img {
   max-width: 100%;
   margin-bottom: 20px;
   border-radius: 10%;
+  border:#00008B;
 }
 
 ul,
@@ -63,7 +64,7 @@ li {
 /* Pseudo-classes ------------------ */
 
 a:link {
-  color: #F0F;
+  color: #00008B;
   text-decoration: none;
 }
 
@@ -86,7 +87,7 @@ a:active {
   height: 850px;
   background: linear-gradient(#00008B, transparent 80%),
               linear-gradient(0deg,#fff, transparent),
-              #00008B url('https://i.postimg.cc/rpkXk0xL/pexels-marina-monroe-3909430.jpg') no-repeat center;
+              #00008B url('https://www.dropbox.com/s/sctzu1niveltgsi/lasvegas%20skyline.jpg?raw=1') no-repeat center;
   background-size: cover;
 }
 
@@ -102,6 +103,10 @@ a:active {
 .intro {
   font-size: 1.25em; /* 20px/16px */
   line-height: 1.6;
+}
+
+.group {
+  border: #00008B 5px;
 }
 
 .primary-content,
@@ -132,7 +137,7 @@ a:active {
 .main-footer {
   padding-top: 60px;
   padding-bottom: 60px;
-  border-bottom: 10px solid #F0F;
+  border-bottom: 10px solid #00008B;
 }
 
 .t-border {
@@ -150,14 +155,14 @@ a:active {
   max-width: 960px;
 }
 
-.women {
+.focus {
   color: white;
   text-align: left;
   padding: 18% 24%;
-  border-top: 10px solid #F0F;
+  border-top: 10px solid #00008B;
   margin: 105px 0 60px;
   background: linear-gradient(#808080
-, transparent 40%),    url('https://lh3.googleusercontent.com/71h79zDXHZmYBCNmQWA6TuPT6TAo0k68cXCf044Mc2gtocrxePWCYURXkb4QWxCktjUYScNbzkJhgoUm4Uqhjqhh77RA75uRm0SSdyodDK0nFOZK-buA54oyuSSpxvlb2O1fjYjLrh28G3DSe-etKtJb4kYJqp28KM8Won_IMNKUeSOxtWDryrb-2BWCxokowGRuAmARGhTiwxQzALGVivxmkpyVr78Grb5YY9cs5-YaGg7w-_l7CuvDKYYhXyjkwPv8P03IOgu3A1JbZUha5cl9PP4KMc1R-eyYpyzcA1dNL4IlZi2hVOz-2XZNuIOt5hGOLdu7qLxJPBXg38o-uY23Gr6wFEz5jbsDzs509qdwpuvJmoahhcUMy6Sw9iBfv_riNEZdgHciuPQeykOvcfht0igw0hd4puGKDR39budAbZRjdoHhA-3Vl_5Vhb58bU25uCFSwa3Ojyzlc4cmjeHjW6IFeK-dFN8U02yStGvYQxXCmaIoMhDujnz7sRoZanfwtShfw1CBuRMYl61pIo-cjjC3O7BkiOC_sYyo5tv1_hLWOCCp5CEzfsrdp7VftAgb8sq9ZqlSrq6DuEf7FGq1Wbkosa5lDWTL3RPS4atE8tFytVoVgd0yDg=w960-h720-no') no-repeat center;
+, transparent 40%),    url('https://www.dropbox.com/s/fs336a2658zqzqy/group1.jpg?raw=1') no-repeat center;
   background-size: cover;
   box-shadow: 15px 15px 15px -2px rgba(0, 0, 0, .8); /* horizontal  vertical  blur  *spread*  color*/
   border-radius: 10%;
@@ -200,7 +205,7 @@ a:active {
        width: 90%;
 }
 
-    .women {
+    .focus {
        padding: 10% 12%;
        margin: 50px 0 20px;
 }
